@@ -1,0 +1,10 @@
+{
+  "name": "saved-booking-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local, encrypted Saved Booking Profile for IRCTC Tatkal preparation. No server, no network calls.",
+  "scripts": {
+    "test": "node --test tests/domain.test.js tests/vault.test.js"
+  },
+  "license": "UNLICENSED"
+}
